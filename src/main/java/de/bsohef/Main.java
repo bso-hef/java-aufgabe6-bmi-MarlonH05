@@ -2,7 +2,7 @@ package de.bsohef;
 
 import java.util.Scanner;
 
-public class BMI {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
